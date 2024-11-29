@@ -1,0 +1,7 @@
+pdf2docx
+zipfile
+shutil
+os
+PIL
+pyzbar
+pandas
